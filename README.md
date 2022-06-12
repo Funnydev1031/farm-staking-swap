@@ -4,7 +4,6 @@
 
 If you want to contribute to SCC Frontend, please refer to the [contributing guidelines](./CONTRIBUTING.md) of this project.
 
-Find us on Telegram at https://t.me/SiaCashCoinChat
 
 Contact our team to add a new syrup/farm pool to our frontend!
 
